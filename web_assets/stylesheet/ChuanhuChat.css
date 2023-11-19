@@ -134,7 +134,7 @@ body.popup-open {
     height: 100%;
     bottom: 0;
     position: absolute;
-    
+
     @media screen and (max-width: 639px) {
         right: 16px;
         right: max(16px, env(safe-area-inset-right));
@@ -235,7 +235,7 @@ body.popup-open {
     display: none;
     z-index: 99999;
     width: 680px;
-    height: 400px;
+    height: 420px;
     padding: 0;
 }
 #chuanhu-popup.showBox {
@@ -714,7 +714,7 @@ input:checked + .chatbot-input-more-span {
 
 #chuanhu-popup > .gradio-box > .gradio-tabs {
     display: block;
-    height: 322px;
+    height: calc(100% - 78px);
     /* margin: 16px 24px; */
 }
 
