@@ -142,5 +142,6 @@
     "⚠️请先删除知识库中的历史文件，再尝试上传！": "⚠️ Vui lòng xóa tệp lịch sử trong cơ sở kiến thức trước khi tải lên!",
     "释放文件以上传": "Thả tệp để tải lên",
     "关闭": "Đóng",
-    "立即重启": "Khởi động lại ngay"
+    "立即重启": "Khởi động lại ngay",
+    "正在尝试重启...": "Đang cố gắng khởi động lại..."
 }

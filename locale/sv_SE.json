@@ -142,5 +142,6 @@
     "⚠️请先删除知识库中的历史文件，再尝试上传！": "⚠️ Ta bort historikfilen i kunskapsbanken innan du försöker ladda upp!",
     "释放文件以上传": "Släpp filen för att ladda upp",
     "关闭": "Stäng",
-    "立即重启": "Starta om nu"
+    "立即重启": "Starta om nu",
+    "正在尝试重启...": "Försöker starta om..."
 }

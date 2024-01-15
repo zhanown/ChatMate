@@ -143,6 +143,7 @@
     "释放文件以上传": "Drop files to upload",
     "关闭": "Close",
     "立即重启": "Restart now",
+    "正在尝试重启...": "Trying to restart...",
     "正在进行首次设置，请按照提示进行配置，配置将会被保存在": "First-time setup is in progress, please follow the prompts to configure, and the configuration will be saved in",
     "中。": ".",
     "在": "",
